@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/TARUN1354/leetcode-solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/TARUN1354/leetcode-solution/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/TARUN1354/leetcode-solution/tree/master/0319-bulb-switcher) |
 ## Enumeration
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TARUN1354/leetcode-solution/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/TARUN1354/leetcode-solution/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
